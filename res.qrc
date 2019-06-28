@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file alias="1">resource/1.png</file>
+        <file alias="2">resource/2.png</file>
+        <file alias="3">resource/2.png</file>
+        <file alias="5">resource/3.png</file>
+        <file alias="6">resource/4.png</file>
+        <file alias="7">resource/6.png</file>
+        <file alias="8">resource/7.png</file>
+        <file alias="9">resource/8.png</file>
+        <file alias="11">resource/9.png</file>
+        <file alias="12">resource/10.png</file>
+        <file alias="13">resource/11.png</file>
+        <file alias="14">resource/12.png</file>
+        <file alias="15">resource/13.png</file>
+        <file alias="16">resource/14.png</file>
+        <file alias="17">resource/15.png</file>
+        <file alias="18">resource/16.png</file>
+        <file alias="19">resource/17.png</file>
+        <file alias="20">resource/18.png</file>
+        <file alias="21">resource/19.png</file>
+        <file alias="22">resource/20.png</file>
+        <file alias="23">resource/21.png</file>
+        <file alias="24">resource/21.png</file>
+        <file alias="25">resource/23.png</file>
+        <file alias="26">resource/24.png</file>
+    </qresource>
+</RCC>
